@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 
 
 ---
+![show](https://github.com/deadseason/matplotlib-manual-plot-with-mouse/assets/55622830/d71c081d-8a35-4a3c-bbe2-b1ef3a79cc56)
